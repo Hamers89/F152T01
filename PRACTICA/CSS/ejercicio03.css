@@ -1,0 +1,19 @@
+header {
+    background-color: #cccdff; /* Azul claro */
+}
+
+main {
+    background-color: #d4edda; /* Verde claro */
+}
+
+section {
+    background-color: #fff3cd; /* Amarillo claro */
+}
+
+div {
+    background-color: #f8d7da; /* Rosa claro */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+}
